@@ -3,7 +3,7 @@ using namespace std;
 
  int main(){
    int num;
-   cout<<"Ingrese un número: ";
+   cout<<"Ingrese un numero: ";
    cin>>num;
 
       if(num!=0){

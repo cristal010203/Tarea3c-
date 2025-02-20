@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(tarea3c__ main.cpp)
 add_executable(condicional1 condicional1.cpp)
+add_executable(condicional2 condicional2.cpp)
 

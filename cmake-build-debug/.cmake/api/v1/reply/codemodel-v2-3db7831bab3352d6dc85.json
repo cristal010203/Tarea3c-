@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -43,6 +45,13 @@
 					"id" : "condicional1::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-condicional1-Debug-32c6b41b479f49afc5b0.json",
 					"name" : "condicional1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "condicional2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-condicional2-Debug-25065aa1f61cd33aa471.json",
+					"name" : "condicional2",
 					"projectIndex" : 0
 				},
 				{

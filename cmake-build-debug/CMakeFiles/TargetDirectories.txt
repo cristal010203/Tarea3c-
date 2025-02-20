@@ -1,4 +1,5 @@
 C:/Users/Dell_User/CLionProjects/c++/tarea3c++/cmake-build-debug/CMakeFiles/tarea3c__.dir
 C:/Users/Dell_User/CLionProjects/c++/tarea3c++/cmake-build-debug/CMakeFiles/condicional1.dir
+C:/Users/Dell_User/CLionProjects/c++/tarea3c++/cmake-build-debug/CMakeFiles/condicional2.dir
 C:/Users/Dell_User/CLionProjects/c++/tarea3c++/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Dell_User/CLionProjects/c++/tarea3c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

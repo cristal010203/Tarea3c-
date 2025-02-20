@@ -106,6 +106,39 @@ build condicional1.exe: CXX_EXECUTABLE_LINKER__condicional1_Debug CMakeFiles/con
   TARGET_IMPLIB = libcondicional1.dll.a
   TARGET_PDB = condicional1.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target condicional2
+
+
+#############################################
+# Order-only phony target for condicional2
+
+build cmake_object_order_depends_target_condicional2: phony || .
+
+build CMakeFiles/condicional2.dir/condicional2.cpp.obj: CXX_COMPILER__condicional2_unscanned_Debug C$:/Users/Dell_User/CLionProjects/c++/tarea3c++/condicional2.cpp || cmake_object_order_depends_target_condicional2
+  DEP_FILE = CMakeFiles\condicional2.dir\condicional2.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\condicional2.dir
+  OBJECT_FILE_DIR = CMakeFiles\condicional2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target condicional2
+
+
+#############################################
+# Link the executable condicional2.exe
+
+build condicional2.exe: CXX_EXECUTABLE_LINKER__condicional2_Debug CMakeFiles/condicional2.dir/condicional2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\condicional2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = condicional2.exe
+  TARGET_IMPLIB = libcondicional2.dll.a
+  TARGET_PDB = condicional2.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -134,6 +167,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build condicional1: phony condicional1.exe
 
+build condicional2: phony condicional2.exe
+
 build tarea3c__: phony tarea3c__.exe
 
 # =============================================================================
@@ -144,7 +179,7 @@ build tarea3c__: phony tarea3c__.exe
 #############################################
 # Folder: C:/Users/Dell_User/CLionProjects/c++/tarea3c++/cmake-build-debug
 
-build all: phony tarea3c__.exe condicional1.exe
+build all: phony tarea3c__.exe condicional1.exe condicional2.exe
 
 # =============================================================================
 # Built-in targets

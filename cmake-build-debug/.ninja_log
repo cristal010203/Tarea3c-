@@ -1,7 +1,9 @@
 # ninja log v6
 39	850	7617553552727426	CMakeFiles/tarea3c__.dir/main.cpp.obj	bf72c80225c9508a
 851	1059	7617553560858123	tarea3c__.exe	17f498a899d5c237
-6	852	7617557919505250	CMakeFiles/condicional1.dir/condicional1.cpp.obj	b454f2e7676855d
-853	1065	7617557927975495	condicional1.exe	afb4d6c80be698e7
 8	770	7617558313378169	CMakeFiles/condicional1.dir/condicional1.cpp.obj	b454f2e7676855d
 770	979	7617558320999965	condicional1.exe	afb4d6c80be698e7
+7	863	7617571107544198	CMakeFiles/condicional1.dir/condicional1.cpp.obj	b454f2e7676855d
+864	1125	7617571116119762	condicional1.exe	afb4d6c80be698e7
+2	815	7617571210912083	CMakeFiles/condicional2.dir/condicional2.cpp.obj	d9f33a5e5a72d00a
+816	1084	7617571219043309	condicional2.exe	7148f1d1ed3f655c
